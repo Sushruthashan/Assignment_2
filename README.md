@@ -18,7 +18,7 @@
          height: 450px;
          background-color: white;
          position: absolute;
-         border: 5px solid black;
+         border: 5px solid green;
          border-radius: 6px; 
       }
       .main input[type='text'] {
@@ -30,7 +30,7 @@
          padding: 3px 6px;
          outline: none;
          font-size: 40px;
-         border: 5px solid black;
+         border: 5px solid green;
          display: flex;
          margin: auto;
          border-radius: 6px;
