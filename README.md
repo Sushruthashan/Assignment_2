@@ -47,7 +47,7 @@
          cursor: pointer;
          font-size: 18px;
          transition: 0.5s;
-         background-color: #495250;
+         background-color: yellowgreen;
          border-radius: 6px;
          color: white;
       }
